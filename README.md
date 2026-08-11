@@ -16,7 +16,7 @@
 
 ### Usando Comentários para Impedir a Execução
 ### Usar comentários para impedir a execução de código é adequado para Teste de código.
-### Adicionar /* em cima de uma linha e embaixo */ de código muda as linhas de código de uma linha executável para Um comentário./* */
+### Adicionar /* em cima de uma linha e outra embaixo de código muda as linhas de código de uma linha executável para Um comentário.*/
 ### Este exemplo usa um bloco de comentário para impedir a execução de Múltiplas linhas:
 
 ### /*
